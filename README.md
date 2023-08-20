@@ -1,4 +1,4 @@
-# asus-rog-G-14-2012
+# asus-rog-G-14-2021
 
 This my Personal journal for customizing Fedora 38 on my Asus ROG Zephyrus G14 GA401.
 
