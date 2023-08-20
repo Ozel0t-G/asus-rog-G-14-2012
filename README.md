@@ -4,3 +4,8 @@ This my Personal journal for customizing Fedora 38 on my Asus ROG Zephyrus G14 G
 
 Hardware:
 -
+
+
+
+
+Tanks to Marco for his power scrips @ [asus-g14-2022](https://gitlab.com/marcaux/asus-g14-2022)
